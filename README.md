@@ -1,4 +1,4 @@
-# hangman
+# Hangman
 Hangman game cli using python 3
 
 # Getting started
